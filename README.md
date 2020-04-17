@@ -71,12 +71,12 @@ Quick Examples:
 | `!c list`        | list all decks in play |
 | `!c remove foo`  | remove the deck named 'foo' from play |
 
-Check out the [wiki](https://github.com/nphyx/clattr-bot/wiki) for full documentation, and the [examples section](https://github.com/nphyx/clattr-bot/wiki#examples-by-game-system) for more usage examples.
+
 
 Setup
 -----
 
-Clattr is currently in testing and you probably shouldn't even be reading this. You can't install the "official" version because it's not hosted online. You'll have
+honour is currently in testing and you probably shouldn't even be reading this. You can't install the "official" version because it's not hosted online. You'll have
 to run it on your own computer for now, or know someone who does. Will set up a server after completing the rest of its needed features.
 
 1) download the source code: `git clone https://github.com/nphyx/clattr-bot`
